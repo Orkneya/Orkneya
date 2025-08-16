@@ -30,11 +30,13 @@
 
 ### 🚀 Проєкти
 
-| Назва        | Стек                             | Опис                                                | 🔗 |
-|--------------|----------------------------------|-----------------------------------------------------|-----|
-| **PhoneBook** | React, Redux, JWT               | Особистий застосунок з авторизацією та API         | [GitHub](https://github.com/Orkneya/goit-react-hw-08) |
-| **Portfolio** | JS, HTML, CSS, Vite             | Командний сайт-портфоліо, була Team Lead            | [GitHub](https://github.com/Orkneya/goit-team07-project-02) |
-| **WatchCharm**| HTML, CSS                       | Командний лендинг-сторінка годинників               | [GitHub](https://github.com/Orkneya/WatchCharm09) |
+| Назва          | Стек                            | Опис                                                | 🔗 |
+|----------------|---------------------------------|-----------------------------------------------------|-----|
+| **PhoneBook**  | React, Redux, JWT               | Особистий застосунок з авторизацією та API          | [GitHub](https://github.com/Orkneya/goit-react-hw-08) |
+| **Portfolio**  | JS, HTML, CSS, Vite             | Командний сайт-портфоліо, була Team Lead            | [GitHub](https://github.com/Orkneya/goit-team07-project-02) |
+| **WatchCharm** | HTML, CSS                       | Командний лендинг-сторінка годинників               | [GitHub](https://github.com/Orkneya/WatchCharm09) |
+| **GameProject**| HTML, CSSб JS                   | Команда 2 розробника і дізайнер (за тиждень)        | https://github.com/Orkneya/GameProject |
+| **Articles**   | React, Node, JS, HTML, CSS      | Командний сайт з повноційним backend                |(https://github.com/Orkneya/Project-React-Node-big-team) |
 
 ---
 
